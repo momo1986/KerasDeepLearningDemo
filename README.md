@@ -11,3 +11,11 @@ Bitte versuchen Sie es!
 First notebook about MNIST-CNN experiment in the architecture of VGG.
 
 Erste Beispiel ueber MNIST-CNN Experiment mit der Architektur von VGG.
+
+Second Chapter about Boston Housing prediction.
+
+Please check:
+
+https://www.kaggle.com/schirmerchad/bostonhoustingmlnd
+
+
